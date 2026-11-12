@@ -1,0 +1,75 @@
+{
+  "_comment": "SYNTHETIC TEST FIXTURE ONLY — Not actual imported Potheri OpenStreetMap data.",
+  "version": 0.6,
+  "generator": "Synthetic Test Fixture",
+  "elements": [
+    {
+      "type": "way",
+      "id": 900001,
+      "tags": {
+        "highway": "primary",
+        "name": "Sample Arterial Road"
+      },
+      "geometry": [
+        {"lat": 12.8200, "lon": 80.0400},
+        {"lat": 12.8225, "lon": 80.0425},
+        {"lat": 12.8250, "lon": 80.0450}
+      ]
+    },
+    {
+      "type": "way",
+      "id": 900002,
+      "tags": {
+        "building": "residential",
+        "name": "Sample Block A"
+      },
+      "geometry": [
+        {"lat": 12.8210, "lon": 80.0410},
+        {"lat": 12.8210, "lon": 80.0414},
+        {"lat": 12.8214, "lon": 80.0414},
+        {"lat": 12.8214, "lon": 80.0410},
+        {"lat": 12.8210, "lon": 80.0410}
+      ]
+    },
+    {
+      "type": "way",
+      "id": 900003,
+      "tags": {
+        "waterway": "canal",
+        "name": "Sample Drainage Canal"
+      },
+      "geometry": [
+        {"lat": 12.8205, "lon": 80.0440},
+        {"lat": 12.8240, "lon": 80.0445}
+      ]
+    },
+    {
+      "type": "way",
+      "id": 900004,
+      "tags": {
+        "leisure": "park",
+        "name": "Sample Community Park"
+      },
+      "geometry": [
+        {"lat": 12.8230, "lon": 80.0410},
+        {"lat": 12.8230, "lon": 80.0420},
+        {"lat": 12.8238, "lon": 80.0420},
+        {"lat": 12.8238, "lon": 80.0410},
+        {"lat": 12.8230, "lon": 80.0410}
+      ]
+    },
+    {
+      "type": "way",
+      "id": 900099,
+      "tags": {
+        "highway": "residential",
+        "name": "Malformed Out-of-Bounds Geometry"
+      },
+      "geometry": [
+        {"lat": 999.0, "lon": 80.0410},
+        {"lat": 12.8210, "lon": 80.0415}
+      ]
+    }
+  ]
+}
+

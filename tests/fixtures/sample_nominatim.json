@@ -1,0 +1,19 @@
+[
+  {
+    "place_id": 123456,
+    "osm_type": "node",
+    "osm_id": 654321,
+    "lat": "12.8231",
+    "lon": "80.0444",
+    "name": "Sample Neighbourhood",
+    "display_name": "Sample Neighbourhood, Chengalpattu, Tamil Nadu, India",
+    "boundingbox": ["12.8150", "12.8310", "80.0360", "80.0520"],
+    "address": {
+      "suburb": "Sample Neighbourhood",
+      "state_district": "Chengalpattu",
+      "state": "Tamil Nadu",
+      "country": "India"
+    }
+  }
+]
+

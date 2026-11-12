@@ -1,0 +1,32 @@
+# Python & Test Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Packaging / Build Artifacts
+build/
+dist/
+*.egg-info/
+
+# Runtime Local Data, Caches, Backups & Exports
+data/cache/
+data/exports/
+data/backups/
+data/*.log
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+temp_*.db
+scratch/
+
+# IDE Settings
+.vscode/
+.idea/
